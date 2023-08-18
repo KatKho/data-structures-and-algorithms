@@ -111,8 +111,11 @@ let starWarsData = [{
   gender: 'female'
 }];
 
-const returnNames = (arr) => {
-    return arr.reduce((accumulator, currentValue)=> accumulator + currentValue.name, '');
+const returnNames = arr => {
+  return arr.reduce((accumulator, currentValue) => {
+    accumulator.push(currentValue.name);
+    return accumulator;
+  }, []);
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -123,8 +126,10 @@ Write a function named reversedString that takes in a string and returns a strin
 Note: You must use reduce for this challenge. You may not use the built-in .reverse() string method.
 ------------------------------------------------------------------------------------------------ */
 
-const reversedString = (str) => {
-  // Solution code here...
+const reversedString = str => {
+  return [...str].reduce((accumulator, currentValue) => {
+    return currentValue + accumulator;
+  }, '');
 };
 
 /* ------------------------------------------------------------------------------------------------
