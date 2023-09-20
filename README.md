@@ -21,3 +21,4 @@ To run your tests
 ### 401 Data Structures, Code Challenges, Table of Contents
 
 - [Code Challenge 01](challenge-01/README.md)
+- [Code Challenge 02](challenge-02/README.md)
