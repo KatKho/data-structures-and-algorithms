@@ -22,3 +22,4 @@ To run your tests
 
 - [Code Challenge 01](challenge-01/README.md)
 - [Code Challenge 02](challenge-02/README.md)
+- [Code Challenge 03](challenge-03/README.md)
