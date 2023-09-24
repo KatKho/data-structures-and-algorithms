@@ -1,5 +1,26 @@
 # Data Structures and Algorithms
 
+## Linked List
+
+The Linked List class represents a data structure that can insert elements at the head, check for the presence of a value, and convert its elements to a formatted string.
+
+## Whiteboard Process
+
+No whiteboard utilized.
+
+## Approach & Efficiency
+
+1. insert Method: The insert method adds a new node with the given value to the head of the linked list. It does this by creating a new node and setting it as the new head, making it a constant-time (O(1)) operation.
+
+2. includes Method: The includes method checks if a given value exists within the linked list. It does this by traversing the list from the head to the end, comparing each node's value to the target value. This has a time complexity of O(n) in the worst case, where n is the number of nodes in the list.
+
+3. toString Method: The toString method converts the linked list into a formatted string representation. It achieves this by traversing the list from the head to the end, appending each node's value to the result string in the specified format. This operation also has a time complexity of O(n), where n is the number of nodes in the list.
+
+## Solution
+
+- [Code Link](./linked-list/index.js)
+- [GitHub Actions](https://github.com/KatKho/data-structures-and-algorithms/actions)
+
 ## Language: `JavaScript`
 
 ### Folder and Challenge Setup
@@ -83,3 +104,4 @@ From the `data-structures-and-algorithms/javascript` folder, execute the followi
 #### Live Tests
 
 Note that when you check your code into GitHub, all of your tests will automatically execute. These results should match your own, and will be found on the  **Actions** tab
+
