@@ -1,8 +1,8 @@
 # Data Structures and Algorithms
 
-## Linked List
+## Linked List Insertion
 
-The Linked List class represents a data structure that can insert elements at the head, check for the presence of a value, and convert its elements to a formatted string.
+The LinkedList class represents a data structure that stores a collection of elements.
 
 ## Whiteboard Process
 
@@ -10,15 +10,15 @@ No whiteboard utilized.
 
 ## Approach & Efficiency
 
-1. insert Method: The insert method adds a new node with the given value to the head of the linked list. It does this by creating a new node and setting it as the new head, making it a constant-time (O(1)) operation.
+1. Append Method: The append method adds a new node with a given value to the end of the linked list. It checks if the linked list is empty (i.e., head is null) and, if so, sets the head to the new node. If the linked list is not empty, it traverses the list until it finds the last node (the one with no "next" reference) and appends the new node to it.
 
-2. includes Method: The includes method checks if a given value exists within the linked list. It does this by traversing the list from the head to the end, comparing each node's value to the target value. This has a time complexity of O(n) in the worst case, where n is the number of nodes in the list.
+2. InsertBefore Method: The insertBefore method adds a new node with a given value immediately before the first node that has the specified target value. It handles cases where the linked list is empty, where the target value is found at the head of the list, and where the target value is located elsewhere in the list.
 
-3. toString Method: The toString method converts the linked list into a formatted string representation. It achieves this by traversing the list from the head to the end, appending each node's value to the result string in the specified format. This operation also has a time complexity of O(n), where n is the number of nodes in the list.
+3. InsertAfter Method: The insertAfter method adds a new node with a given value immediately after the first node that has the specified target value. Similar to insertBefore, it handles cases where the linked list is empty, where the target value is found at the head of the list, and where the target value is located elsewhere in the list.
 
 ## Solution
 
-- [Code Link](./linked-list/index.js)
+- [Code Link](../linked-list-insertions/index.js)
 - [GitHub Actions](https://github.com/KatKho/data-structures-and-algorithms/actions)
 
 ## Language: `JavaScript`

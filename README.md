@@ -23,4 +23,5 @@ To run your tests
 - [Code Challenge 01](challenge-01/README.md)
 - [Code Challenge 02](challenge-02/README.md)
 - [Code Challenge 03](challenge-03/README.md)
-- [Code Challenge 05](javascript/README.md)
+- [Code Challenge 05](javascript/linked-list/README.md)
+- [Code Challenge 06](javascript/linked-list-insertions/README.md)
