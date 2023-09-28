@@ -28,4 +28,4 @@ In summary, the algorithm iterates through both input linked lists, alternately 
 
 ## Solution
 
-- [Code Link](../linked-list-zip.index.js)
+- [Code Link](../linked-list-zip/index.js)
