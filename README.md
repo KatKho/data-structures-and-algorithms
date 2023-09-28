@@ -26,3 +26,4 @@ To run your tests
 - [Code Challenge 05](javascript/linked-list/README.md)
 - [Code Challenge 06](javascript/linked-list-insertions/README.md)
 - [Code Challenge 07](javascript/linked-list-kth/README.md)
+- [Code Challenge 08](javascript/linked-list-zip/README.md)
