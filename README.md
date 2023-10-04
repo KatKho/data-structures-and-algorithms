@@ -29,3 +29,5 @@ To run your tests
 - [Code Challenge 08](javascript/linked-list-zip/README.md)
 - [Code Challenge 10](javascript/stack-and-queue/README.md)
 - [Code Challenge 11](javascript/stack-queue-pseudo/README.md)
+- [Code Challenge 12](javascript/stack-queue-animal-shelter/README.md)
+- [Code Challenge 13](javascript/stack-queue-brackets/README.md)
