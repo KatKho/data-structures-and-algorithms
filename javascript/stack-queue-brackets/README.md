@@ -4,7 +4,7 @@ The validateBrackets function is a JavaScript implementation for checking the ba
 
 ## Whiteboard Process
 
-No whiteboard process was used for this implementation.
+- [Whiteboard](./IMG_0028.jpg)
 
 ## Approach & Efficiency
 
