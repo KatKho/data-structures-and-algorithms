@@ -4,7 +4,7 @@ The AnimalShelter class is a JavaScript implementation of a shelter that holds d
 
 ## Whiteboard Process
 
-No whiteboard process was used for this implementation.
+- [Whiteboard](./IMG_0027.jpg)
 
 ## Approach & Efficiency
 
