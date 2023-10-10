@@ -32,4 +32,4 @@ To run your tests
 - [Code Challenge 12](javascript/stack-queue-animal-shelter/README.md)
 - [Code Challenge 13](javascript/stack-queue-brackets/README.md)
 - [Code Challenge 15](javascript/trees/README.md)
-- [Code Challenge 15](javascript/tree-max/README.md)
+- [Code Challenge 16](javascript/tree-max/README.md)
