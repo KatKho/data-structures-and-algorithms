@@ -23,7 +23,7 @@ Space Complexity: O(w) - The space complexity depends on the maximum width (w) o
 ## Solution
 
 - [Code Link](../tree-breadth-first/index.js)
-- [GitHub Actions](https://github.com/KatKho/tree-breadth-first/actions)
+- [GitHub Actions](https://github.com/KatKho/data-structures-and-algorithms/actions)
 
 ## Contributors
 
