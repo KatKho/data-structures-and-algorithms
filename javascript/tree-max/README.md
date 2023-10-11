@@ -13,7 +13,7 @@ This JavaScript code includes a method that finds the maximum value stored in th
 ## Solution
 
 - [Code Link](../tree-max/index.js)
-- [GitHub Actions](https://github.com/KatKho/tree-max/actions)
+- [GitHub Actions](https://github.com/KatKho/data-structures-and-algorithms/actions)
 
 ## Contributors
 
