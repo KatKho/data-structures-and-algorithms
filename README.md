@@ -33,3 +33,4 @@ To run your tests
 - [Code Challenge 13](javascript/stack-queue-brackets/README.md)
 - [Code Challenge 15](javascript/trees/README.md)
 - [Code Challenge 16](javascript/tree-max/README.md)
+- [Code Challenge 17](javascript/tree-breadth-first/README.md)
