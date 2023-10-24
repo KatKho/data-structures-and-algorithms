@@ -35,4 +35,6 @@ To run your tests
 - [Code Challenge 16](javascript/tree-max/README.md)
 - [Code Challenge 17](javascript/tree-breadth-first/README.md)
 - [Code Challenge 18](javascript/tree-fizz-buzz/README.md)
-- [Code Challenge 26](javascript/sorting/insertion/README.md)
+- [Code Challenge 26](sorting/insertion/README.md)
+- [Code Challenge 27](sorting/merge/README.md)
+
