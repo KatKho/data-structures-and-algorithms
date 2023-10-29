@@ -38,4 +38,5 @@ To run your tests
 - [Code Challenge 26](sorting/insertion/README.md)
 - [Code Challenge 27](sorting/merge/README.md)
 - [Code Challenge 28](sorting/sort-and-filter/README.md)
+- [Code Challenge 30](javascript/hashtable/README.md)
 
