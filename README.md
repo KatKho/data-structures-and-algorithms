@@ -40,4 +40,5 @@ To run your tests
 - [Code Challenge 28](sorting/sort-and-filter/README.md)
 - [Code Challenge 30](javascript/hashtable/README.md)
 - [Code Challenge 31](javascript/hashmap-repeated-word/README.md)
+- [Code Challenge 32](javascript/tree-intersection/README.md)
 
