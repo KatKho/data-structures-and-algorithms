@@ -44,4 +44,5 @@ To run your tests
 - [Code Challenge 33](javascript/hashmap-left-join/README.md)
 - [Code Challenge 35](javascript/graph/README.md)
 - [Code Challenge 36](javascript/graph-breadth-first/README.md)
-- [Code Challenge 37](javascript/graph-business-trip/README.md)\
+- [Code Challenge 37](javascript/graph-business-trip/README.md)
+- [Code Challenge 38](javascript/graph-depth-first/README.md)
